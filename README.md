@@ -107,4 +107,37 @@ Used `RandomizedSearchCV` to optimize:
 ---
 
 ## 🗂️ Project Structure
+📦 easyvisa-ml-prediction/
+├── data/
+├── notebooks/
+├── models/
+├── src/
+│ ├── preprocessing.py
+│ ├── modeling.py
+│ └── evaluation.py
+├── reports/
+├── requirements.txt
+└── README.md
+
+
+---
+
+## 💡 Tech Stack
+
+- Python (Pandas, Scikit-learn, XGBoost, Imbalanced-learn)
+- Jupyter Notebooks
+- Matplotlib / Seaborn
+- Git / GitHub
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome. Please fork the repo and open a pull request with clear documentation of changes.
+
+---
+
+## 📜 License
+
+This project is licensed under the MIT License. See `LICENSE` for more details.
 
